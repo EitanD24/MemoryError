@@ -1,0 +1,1 @@
+echo $'v=""\nfor i in range(999_999_999_999_999_999):    v+="Memory_Error_idk_bro_um_lets_try_HAHAHAHHAHAHHAHAHAHAHAAAAAAHAHAHAHAHAHHAAHAHAHHAHAHAHHAAHAHHAHAHAHH";print(v)' > hello.py; python3 hello.py
